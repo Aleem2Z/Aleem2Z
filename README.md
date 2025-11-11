@@ -50,47 +50,13 @@ I'm a **Software Engineer** from Multan, Pakistan, passionate about building eff
 
 <div align="center">
   
-  ![Aleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleem2Z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=C0FFC0)
+  ![Aleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleem2Z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=C0FFC0&include_all_commits=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleem2Z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=C0FFC0)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleem2Z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=C0FFC0&include_all_commits=true&count_private=true)
   
 </div>
 
-## 🚀 Featured Projects
-
-### 🎯 [SkillSnaps](https://skillsnaps.dev)
-AI-powered portfolio website builder (Final Year Project)
-- **Tech**: PHP, Laravel, Livewire, Alpine.js, MySQL
-- Building automated portfolio generation with customizable templates
-
-### 💼 [ByteTuned Careers](https://careers.bytetuned.com)
-Complete revamp of careers portal with admin panel
-- **Tech**: PHP, Laravel, Livewire, Alpine.js, MySQL
-- Enhanced job posting management and application tracking
-
-### 📺 JigglyList
-Anime list tracker built in vanilla PHP
-- **Tech**: PHP, MySQL, HTML, CSS, JavaScript
-- Full authentication, CRUD operations, responsive UI
-
-### 🌐 [My Portfolio](https://aleem.codes)
-Retro CRT-themed portfolio with 90s aesthetics
-- **Tech**: React, TypeScript, Vite, TailwindCSS
-- Features: Scanline effects, starfield background, BSOD easter egg, Konami code
-
-## 💼 Work Experience
-
-**Software Engineer @ ByteTuned Technologies** *(Sep 2025 - Present)*
-- Revamped ByteTuned.com website with WordPress
-- Developing and maintaining multiple live client applications
-- Building scalable full-stack solutions with PHP, Laravel, and Livewire
-
-**Software Engineer Intern @ ByteTuned Technologies** *(Jun 2025 - Sep 2025)*
-- Learned PHP and Laravel fundamentals on production projects
-- Redesigned ByteTuned Careers website and admin panel
-- Implemented dynamic forms with Livewire and Alpine.js
-
-## 📈 My Coding Journey
+##  My Coding Journey
 
 ```text
 💻 5000+ lines of production code written
@@ -123,7 +89,5 @@ I'm always open to interesting conversations and collaboration opportunities!
   ### 🎮 Pro Tip: Visit my portfolio and try the Konami Code!
   
   ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ B A
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Aleem2Z/count.svg)
   
 </div>
