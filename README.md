@@ -1,4 +1,4 @@
-![Header](./assets/header.png)
+![Header](./header.png)
 
 # 👋 Hey there, I'm Aleem!
 
