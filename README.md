@@ -1,4 +1,4 @@
-![Header](./assets/header.svg)
+![Header](./assets/header.png)
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-aleem.codes-informational?style=flat&logo=google-chrome&logoColor=white&color=00FF00)](https://aleem.codes)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/aleem-zeeshan/)
