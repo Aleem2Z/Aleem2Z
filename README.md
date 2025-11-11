@@ -50,13 +50,18 @@ I'm a **Software Engineer** from Multan, Pakistan, passionate about building eff
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Aleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleem2Z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=C0FFC0&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleem2Z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=C0FFC0&include_all_commits=true&count_private=true)
-  
-</div>
+<br>
+
+<a href="https://github.com/Aleem2Z">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Aleem2Z&show_icons=true&line_height=27&count_private=true&title_color=00FF00&text_color=C0FFC0&icon_color=00FF00&bg_color=0D1117&hide_border=true" alt="Aleem's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Aleem2Z">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleem2Z&hide=html,css&title_color=00FF00&text_color=C0FFC0&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
+</a>
+
+<br>
+<br>
 
 ## 📈 My Coding Journey
 
